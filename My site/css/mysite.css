@@ -89,7 +89,7 @@ a {
 	margin-top: -20px;
 	transition: all.6s ease;
 }
-.link1, .link1-2, .link1-3 {
+.link1, .link1-2, .link1-3, .link1-4 {
 	display: block;
 	width: 35px;
 	height: 22px;
@@ -131,7 +131,26 @@ a {
 	height: 32px;
 	background: url("../photo/mail.png") no-repeat;
 	margin-left: 5px;
+	margin-top: 15px;
 }
+.txt-2, .txt-3 {
+	margin-top: 15px;
+	margin-left: -280px;
+	float: left;
+}
+.txt2 {
+	padding-left: 200px;
+	margin-bottom: 100px;
+	float: left;
+	color: white;
+}
+.link1-4 {
+	margin-left: 190px;
+}
+.txt-3 {
+	margin-right: 10px;
+}
+
 /*<hr size="100px"/>
  <label for="phones">Which phone do you like more?</label>
 
